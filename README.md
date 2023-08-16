@@ -13,3 +13,5 @@ phsf08@gmail.com
 @onahoyakk
 
 ![](https://media.tenor.com/Jlt4lQU4M8kAAAAM/rock-the-rock.gif)
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
